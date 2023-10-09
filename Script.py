@@ -30,7 +30,7 @@ Here is the help for my COMMANDS."""
 - ꜰᴏʀ ᴍᴏʀᴇ ᴜᴩᴅᴀᴛᴇꜱ - <a href=https://t.me/dmx_chating>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 <b>DEVS:</b>
-- <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>"""
+- <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
@@ -55,7 +55,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/basildmx)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -82,7 +82,7 @@ Here is the help for my COMMANDS."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Lazy Princess
+these are the extra features of ᴛᴏᴍ ᴄʀᴜɪꜱᴇ
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
@@ -106,11 +106,11 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    STATUS_TXT = """★ ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ : <code>{}</code>
+★ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : <code>{}</code>
+★ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ : <code>{}</code>
+★ ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝚒𝙱
+★ ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
@@ -121,7 +121,7 @@ ID - <code>{}</code>
 Name - {}
 """
     PROGRESS_BAR = """\n
-╭━━━━❰ PROGRESS BAR ❱━➣
+╭━━━━❰ ᴩʀᴏɢʀᴇꜱꜱ ʙᴀʀ ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
