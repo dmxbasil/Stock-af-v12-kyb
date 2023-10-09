@@ -11,34 +11,36 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://clicksfly.com/ref/LazyDeveloperr')
-    START_TXT = environ.get("START_TXT", '''Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪''')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/basildmx')
+    START_TXT = environ.get("START_TXT", '''ʜᴇʟʟᴏ {},
+ɪᴀᴍ <a href=https://t.me/{}>{}</a>,\n\n ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ ᴡɪᴛʜ ᴀᴅᴍɪɴ ᴩᴇʀᴍɪꜱꜱɪᴏɴ ᴀɴᴅ ɪ ᴡɪʟʟ ᴩʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ/ꜱᴇʀɪᴇꜱ ᴡʜᴀᴛᴇᴠᴇʀ ʏᴏᴜ ᴡᴀɴᴛ \n ᴏʀ ᴇʟꜱᴇ ʏᴏᴜ ᴄᴀɴ ꜱᴇᴀʀᴄʜ ʜᴇʀᴇ ᴀʟꜱᴏ''')
     
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+•••
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+•••
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
+•••
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nYou must have to be the Authentic User to complete this operation...
     """
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ LazyPrincess ]"""
-    SOURCE_TXT = """<b>LazyPrincess is an open source project</b>
+    ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ: {}
+✯ ᴏɴᴡᴇʀ: <a href=https://t.me/basildmx>ʙᴀꜱɪʟ ᴅᴍx</a>
+✯ ʟɪʙʀᴀʀy: ᴩyʀᴏɢʀᴀᴍ
+✯ ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ 𝟹.10.08
+✯ ᴅᴀᴛᴀ ʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
+✯ ᴅᴀᴛᴀ ʙᴀꜱᴇ 2 : ʀᴇᴅɪꜱ ᴅʙ
+✯ ꜱᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ
+✯ ᴄᴩᴜ : 2ᴠ ᴄᴩᴜ
+✯ ꜱᴏᴜʀᴄᴇ : ᴇᴠᴀ ᴍᴀʀɪᴀ + ʟᴀᴢʏ ʙᴏᴛ + ᴀᴅᴅᴇᴅ ᴄᴏᴅᴇ"""
+    SOURCE_TXT = """<b>ᴛᴏᴍ ᴄʀᴜɪꜱᴇ ɪꜱ ᴀ ᴩʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ</b>
 
-You can easily get its source code from github - <a href='https://github.com/LazyDeveloperr/LazyPrincessV2'>LazyDeveloperr</a>"""
+ᴊᴏɪɴ ʜᴇʀᴇ ꜰᴏʀ ᴜᴩᴅᴀᴛᴇꜱ - <a href='https://t.me/dmx_chating'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
@@ -63,7 +65,7 @@ You can easily get its source code from github - <a href='https://github.com/Laz
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/dmx_chating)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -115,10 +117,10 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+★ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : <code>{}</code>
+★ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ : <code>{}</code>
+★ ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝚒𝙱
+★ ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ : <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
