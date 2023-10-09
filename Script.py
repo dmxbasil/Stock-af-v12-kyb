@@ -7,7 +7,7 @@ class script(object):
     LZLINK_TEXT = """Hey {},
 •••
     """
-    DNT_TEXT = """Hey {},
+    DNT_TEXT = """Hey {}
 •••
     """
     REQ_AUTH_TEXT = """Hello {},
